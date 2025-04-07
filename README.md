@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Accediendo+a+DarkDub...;Sistema+no+seguro+detectado.;Inyectando+código+en+la+oscuridad.;404%3A+Reglas+no+encontradas.;Bienvenido+a+la+zona+gris.+++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Accediendo+a+DarkDub...;Sistema+no+seguro+detectado.;Inyectando+código+en+la+oscuridad.;404%3A+Reglas+no+encontradas.;Bienvenido+a+la+zona+gris." alt="Typing SVG" />
 </p>
 
 
