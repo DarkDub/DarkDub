@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hola%2C+soy+DarkDub.;Web+developer+by+day...;Cybersecurity+enthusiast+by+night.;Exploitando+errores+con+estilo+%F0%9F%92%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Accediendo+a+DarkDub...;Sistema+no+seguro+detectado.;Inyectando+código+en+la+oscuridad.;404%3A+Reglas+no+encontradas.;Bienvenido+a+la+zona+gris.+++" alt="Typing SVG" />
 </p>
+
 
 ---
 
 # ✦ DarkDub ✦
 
-💻 Web Dev | 🛡️ Ciberseguridad | 🎭 Aesthetic Dark Mode Enthusiast  
-Haciendo cosas cool en la web y rompiendo cositas por diversión 🕶️  
-¯\_(ツ)_/¯
+💻 Web Dev | 🛡️ Ciberseguridad | 🎭 Dark UI enjoyer  
+Explorando el lado técnico del caos... de forma ética.
 
 ---
 
